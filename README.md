@@ -2,7 +2,7 @@
 Scikit-learn Classification 
 
 
-Burada birkaç sınıflandırma yöntemi uygulamaları bulunmakradır.
+Burada aşağıdaki sınıflandırma yöntemlerinin kullanımı bulunmakradır.
 
 - Gausian Naive Bayes
 - Multinomial Naive Bayes
